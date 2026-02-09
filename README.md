@@ -1,5 +1,4 @@
 # Quadra Rotate
-![App Preview](r2.png) ![App Preview](r3.png) ![App Preview](r7.png)
 # Overview
 Quadra Rotate is a logic-driven puzzle engine designed to handle complex grid transformations. The project focuses on the mathematical implementation of matrix rotations and maintaining a deterministic system state during user interactions.
 # Technical Specifications
@@ -21,3 +20,4 @@ npm install
 # Start the development server
 npm start
 ```
+![App Preview](r2.png) ![App Preview](r7.png) ![App Preview](r3.png)
