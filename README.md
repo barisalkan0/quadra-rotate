@@ -20,4 +20,4 @@ npm install
 # Start the development server
 npm start
 ```
-![App Preview](r2.png) ![App Preview](r7.png) ![App Preview](r3.png)
+![App Preview](r2.png) ![App Preview](r7.png) ![App Preview](r3.png) ![App Preview](r6.png)
